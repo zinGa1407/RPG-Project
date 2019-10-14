@@ -57,3 +57,9 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
+
+#Ignore Asset Package bundle of Creatures - Very Large Files
+/[Aa]ssets/Asset Packs/Fantasy Creatures Pack/
+/[Aa]ssets/Asset Packs/Fantasy Creatures Pack.meta
+/[Aa]ssets/Asset Packs/Gaia/
+/[Aa]ssets/Asset Packs/Gaia.meta
